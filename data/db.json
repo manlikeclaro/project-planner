@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "create new homepage",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit hic voluptate est optio ipsa praesentium recusandae labore quidem neque enim repellendus obcaecati eos, assumenda distinctio eligendi dolorum amet at. Porro modi ea expedita distinctio similique dolore excepturi voluptatum, et cupiditate voluptatibus! Obcaecati harum excepturi itaque? Ullam voluptates impedit ipsum reprehenderit.",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "make marketing email",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit hic voluptate est optio ipsa praesentium recusandae labore quidem neque enim repellendus obcaecati eos, assumenda distinctio eligendi dolorum amet at. Porro modi ea expedita distinctio similique dolore excepturi voluptatum, et cupiditate voluptatibus! Obcaecati harum excepturi itaque? Ullam voluptates impedit ipsum reprehenderit.\n\n",
+      "complete": true
+    },
+    {
+      "title": "Learn about vue router",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit hic voluptate est optio ipsa praesentium recusandae labore quidem neque enim repellendus obcaecati eos, assumenda distinctio eligendi dolorum amet at. Porro modi ea expedita distinctio similique dolore excepturi voluptatum, et cupiditate voluptatibus! Obcaecati harum excepturi itaque? Ullam voluptates impedit ipsum reprehenderit.\n\n",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
